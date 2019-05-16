@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<linecounter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+             xmlns:xi="http://www.w3.org/2001/XInclude">
+    
+    <description>Commenting styles for XML files.</description>
+    
+    <xi:include href="XML.xml"/>
+</linecounter>

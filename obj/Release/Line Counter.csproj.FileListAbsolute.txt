@@ -1,0 +1,28 @@
+H:\Programming\Line Counter\Version 2.0\bin\Release\Help\Line Counter.chm
+H:\Programming\Line Counter\Version 2.0\bin\Release\Commenting Styles\All.lcs
+H:\Programming\Line Counter\Version 2.0\bin\Release\Commenting Styles\Code.xml
+H:\Programming\Line Counter\Version 2.0\bin\Release\Commenting Styles\TDBD.xml
+H:\Programming\Line Counter\Version 2.0\bin\Release\Commenting Styles\XML.xml
+H:\Programming\Line Counter\Version 2.0\bin\Release\Commenting Styles\HTML.xml
+H:\Programming\Line Counter\Version 2.0\bin\Release\Commenting Styles\LaTeX.xml
+H:\Programming\Line Counter\Version 2.0\bin\Release\Commenting Styles\Matlab.xml
+H:\Programming\Line Counter\Version 2.0\bin\Release\Commenting Styles\Matlab.lcs
+H:\Programming\Line Counter\Version 2.0\bin\Release\Commenting Styles\Code.lcs
+H:\Programming\Line Counter\Version 2.0\bin\Release\Commenting Styles\Osiris.xml
+H:\Programming\Line Counter\Version 2.0\bin\Release\Commenting Styles\TDBD.lcs
+H:\Programming\Line Counter\Version 2.0\bin\Release\Commenting Styles\XML.lcs
+H:\Programming\Line Counter\Version 2.0\bin\Release\Commenting Styles\HTML.lcs
+H:\Programming\Line Counter\Version 2.0\bin\Release\Commenting Styles\LaTeX.lcs
+H:\Programming\Line Counter\Version 2.0\bin\Release\Commenting Styles\Osiris.lcs
+H:\Programming\Line Counter\Version 2.0\bin\Release\Line Counter.exe.config
+H:\Programming\Line Counter\Version 2.0\bin\Release\Line Counter.exe
+H:\Programming\Line Counter\Version 2.0\bin\Release\CbtHook.dll
+H:\Programming\Line Counter\Version 2.0\bin\Release\DPM.dll
+H:\Programming\Line Counter\Version 2.0\bin\Release\Plossum CommandLine.dll
+H:\Programming\Line Counter\Version 2.0\bin\Release\Thor.Units.dll
+H:\Programming\Line Counter\Version 2.0\bin\Release\WindowsHook.dll
+H:\Programming\Line Counter\Version 2.0\bin\Release\XInclude.dll
+H:\Programming\Line Counter\Version 2.0\obj\Release\DigitalProduction.LineCounter.LineCounter.resources
+H:\Programming\Line Counter\Version 2.0\obj\Release\Line Counter.csproj.GenerateResource.Cache
+H:\Programming\Line Counter\Version 2.0\obj\Release\Line Counter.csproj.CoreCompileInputs.cache
+H:\Programming\Line Counter\Version 2.0\obj\Release\Line Counter.exe

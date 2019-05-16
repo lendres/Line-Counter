@@ -1,0 +1,31 @@
+H:\Programming\Line Counter\Version 2.0\obj\Debug\Line Counter.csprojResolveAssemblyReference.cache
+H:\Programming\Line Counter\Version 2.0\obj\Debug\DigitalProduction.LineCounter.LineCounter.resources
+H:\Programming\Line Counter\Version 2.0\obj\Debug\Line Counter.csproj.GenerateResource.Cache
+H:\Programming\Line Counter\Version 2.0\obj\Debug\Line Counter.csproj.CoreCompileInputs.cache
+H:\Programming\Line Counter\Version 2.0\obj\Debug\Line Counter.exe
+H:\Programming\Line Counter\Version 2.0\obj\Debug\Line Counter.pdb
+H:\Programming\Line Counter\Version 2.0\bin\Debug\Help\Line Counter.chm
+H:\Programming\Line Counter\Version 2.0\bin\Debug\Commenting Styles\All.lcs
+H:\Programming\Line Counter\Version 2.0\bin\Debug\Commenting Styles\Code.xml
+H:\Programming\Line Counter\Version 2.0\bin\Debug\Commenting Styles\TDBD.xml
+H:\Programming\Line Counter\Version 2.0\bin\Debug\Commenting Styles\XML.xml
+H:\Programming\Line Counter\Version 2.0\bin\Debug\Commenting Styles\HTML.xml
+H:\Programming\Line Counter\Version 2.0\bin\Debug\Commenting Styles\LaTeX.xml
+H:\Programming\Line Counter\Version 2.0\bin\Debug\Commenting Styles\Matlab.xml
+H:\Programming\Line Counter\Version 2.0\bin\Debug\Commenting Styles\Matlab.lcs
+H:\Programming\Line Counter\Version 2.0\bin\Debug\Commenting Styles\Code.lcs
+H:\Programming\Line Counter\Version 2.0\bin\Debug\Commenting Styles\Osiris.xml
+H:\Programming\Line Counter\Version 2.0\bin\Debug\Commenting Styles\TDBD.lcs
+H:\Programming\Line Counter\Version 2.0\bin\Debug\Commenting Styles\XML.lcs
+H:\Programming\Line Counter\Version 2.0\bin\Debug\Commenting Styles\HTML.lcs
+H:\Programming\Line Counter\Version 2.0\bin\Debug\Commenting Styles\LaTeX.lcs
+H:\Programming\Line Counter\Version 2.0\bin\Debug\Commenting Styles\Osiris.lcs
+H:\Programming\Line Counter\Version 2.0\bin\Debug\Line Counter.exe.config
+H:\Programming\Line Counter\Version 2.0\bin\Debug\Line Counter.exe
+H:\Programming\Line Counter\Version 2.0\bin\Debug\Line Counter.pdb
+H:\Programming\Line Counter\Version 2.0\bin\Debug\CbtHook.dll
+H:\Programming\Line Counter\Version 2.0\bin\Debug\DPM.dll
+H:\Programming\Line Counter\Version 2.0\bin\Debug\Plossum CommandLine.dll
+H:\Programming\Line Counter\Version 2.0\bin\Debug\Thor.Units.dll
+H:\Programming\Line Counter\Version 2.0\bin\Debug\WindowsHook.dll
+H:\Programming\Line Counter\Version 2.0\bin\Debug\XInclude.dll

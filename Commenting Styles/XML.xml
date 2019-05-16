@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<commentingstyles>
+    <style>
+        <name>XML</name>
+        <extentions>
+            <extension>xml</extension>
+            <extension>xslt</extension>
+            <extension>xsl</extension>
+            <extension>xsd</extension>
+        </extentions>
+        <longcommentstyles>
+            <longcomment>
+                <StartString>&lt;!--</StartString>
+                <EndString>--&gt;</EndString>
+            </longcomment>
+        </longcommentstyles>
+    </style>
+</commentingstyles>

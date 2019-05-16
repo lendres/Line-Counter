@@ -1,0 +1,14 @@
+Number of Files Selected: 155
+
+Number of Files Processed: 57
+Number of Lines of Code: 2588
+Number of Blank Lines: 354
+Number of Comment Lines: 658
+Total Number of Lines: 3600
+
+
+
+The same information is printed below in a format that can be copied into Excel (tab delimited).
+
+Number of Files Processed	Number of Lines of Code	Number of Blank Lines	Number of Comment Lines	Total Number of Lines
+57	2588	354	658	3600

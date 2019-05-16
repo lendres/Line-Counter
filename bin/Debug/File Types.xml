@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<linecounter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<filetypes>
+		<filetype>
+			<Name>C++</Name>
+			<extentions>
+				<extension>h</extension>
+				<extension>cpp</extension>
+			</extentions>
+			<shortcommentstyles>
+				<shortcomment>//</shortcomment>
+			</shortcommentstyles>
+			<longcommentstyles>
+				<longcomment>
+					<StartString>/*</StartString>
+					<EndString>*/</EndString>
+				</longcomment>
+			</longcommentstyles>
+		</filetype>
+		<filetype>
+			<Name>LaTeX</Name>
+			<extentions>
+				<extension>tex</extension>
+				<extension>tex</extension>
+				<extension>cls</extension>
+				<extension>sty</extension>
+			</extentions>
+			<shortcommentstyles>
+				<shortcomment>%</shortcomment>
+			</shortcommentstyles>
+			<longcommentstyles>
+				<longcomment>
+					<StartString>%%</StartString>
+					<EndString>%%</EndString>
+				</longcomment>
+			</longcommentstyles>
+		</filetype>
+
+        <filetype>
+            <Name>C#</Name>
+            <extentions>
+                <extension>cs</extension>
+            </extentions>
+            <shortcommentstyles>
+                <shortcomment>//</shortcomment>
+            </shortcommentstyles>
+            <longcommentstyles>
+                <longcomment>
+                    <StartString>/*</StartString>
+                    <EndString>*/</EndString>
+                </longcomment>
+            </longcommentstyles>
+        </filetype>
+
+		<!--<filetype>
+			<Name>All</Name>
+			<extentions>
+				<extension>*</extension>
+			</extentions>
+		</filetype>-->
+	</filetypes>
+</linecounter>

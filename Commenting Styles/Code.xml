@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<commentingstyles>
+    <style>
+        <name>C++</name>
+        <extentions>
+            <extension>h</extension>
+            <extension>cpp</extension>
+            <extension>c</extension>
+        </extentions>
+        <shortcommentstyles>
+            <shortcomment>//</shortcomment>
+        </shortcommentstyles>
+        <longcommentstyles>
+            <longcomment>
+                <StartString>/*</StartString>
+                <EndString>*/</EndString>
+            </longcomment>
+        </longcommentstyles>
+    </style>
+
+    <style>
+        <name>C#</name>
+        <extentions>
+            <extension>cs</extension>
+        </extentions>
+        <shortcommentstyles>
+            <shortcomment>//</shortcomment>
+        </shortcommentstyles>
+        <longcommentstyles>
+            <longcomment>
+                <StartString>/*</StartString>
+                <EndString>*/</EndString>
+            </longcomment>
+        </longcommentstyles>
+    </style>
+
+    <style>
+        <name>Visual Lisp</name>
+        <extentions>
+            <extension>lsp</extension>
+            <extension>dcl</extension>
+        </extentions>
+        <shortcommentstyles>
+            <shortcomment>;</shortcomment>
+        </shortcommentstyles>
+    </style>
+
+    <style>
+        <name>Visual Basic</name>
+        <extentions>
+            <extension>vb</extension>
+        </extentions>
+        <shortcommentstyles>
+            <shortcomment>'</shortcomment>
+        </shortcommentstyles>
+    </style>
+</commentingstyles>

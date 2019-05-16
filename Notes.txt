@@ -1,0 +1,12 @@
+TO DO:
+
+1) Re-implement FORTRAN line counting (in FileType.IsComment).
+
+2) Fix assumptions make in ability to search for multi-line comments (long commenting style) 
+see FileType.IsComment for information.
+
+3) Update help.  Use CSS and include it as part of the project.
+
+4) Update icon to use Windows XP style.
+
+5) Write the report in xml and use xslt to convert to different formats, including html, plain text, et cetera.

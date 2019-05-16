@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<commentingstyles>
+    <style>
+        <name>Osiris Input Files</name>
+        <extentions>
+            <extension>oft</extension>
+            <extension>nmt</extension>
+        </extentions>
+        <longcommentstyles>
+            <longcomment>
+                <StartString>&lt;!--</StartString>
+                <EndString>--&gt;</EndString>
+            </longcomment>
+        </longcommentstyles>
+    </style>
+</commentingstyles>

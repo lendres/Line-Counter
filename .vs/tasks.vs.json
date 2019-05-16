@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "task-Test File 2",
+      "appliesTo": "Test Files/Test File 2.html",
+      "type": "launch"
+    }
+  ]
+}

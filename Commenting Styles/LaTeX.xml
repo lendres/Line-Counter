@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<commentingstyles>
+    <style>
+        <name>LaTeX</name>
+        <extentions>
+            <extension>tex</extension>
+            <extension>cls</extension>
+            <extension>sty</extension>
+            <extension>bib</extension>
+        </extentions>
+        <shortcommentstyles>
+            <shortcomment>%</shortcomment>
+        </shortcommentstyles>
+    </style>
+</commentingstyles>
