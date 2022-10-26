@@ -95,14 +95,14 @@
   <ItemGroup>
     <Reference Include="CbtHook, Version=1.0.3313.25969, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>R:\Programming\Line Counter\References\CbtHook.dll</HintPath>
+      <HintPath>.\References\CbtHook.dll</HintPath>
     </Reference>
     <Reference Include="DPM, Version=1.2.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>R:\Programming\Line Counter\References\DPM.dll</HintPath>
+      <HintPath>.\References\DPM.dll</HintPath>
     </Reference>
     <Reference Include="Plossum CommandLine">
-      <HintPath>R:\Programming\Line Counter\References\Plossum CommandLine.dll</HintPath>
+      <HintPath>.\References\Plossum CommandLine.dll</HintPath>
     </Reference>
     <Reference Include="System">
       <Name>System</Name>
@@ -120,11 +120,14 @@
       <Name>System.XML</Name>
     </Reference>
     <Reference Include="Thor.Units">
-      <HintPath>R:\Programming\Line Counter\References\Thor.Units.dll</HintPath>
+      <HintPath>.\References\Thor.Units.dll</HintPath>
     </Reference>
     <Reference Include="WindowsHook, Version=1.0.3265.25726, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>R:\Programming\Line Counter\References\WindowsHook.dll</HintPath>
+      <HintPath>.\References\WindowsHook.dll</HintPath>
+    </Reference>
+    <Reference Include="XInclude">
+      <HintPath>.\References\XInclude.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
