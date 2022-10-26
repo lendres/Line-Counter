@@ -1,0 +1,12 @@
+
+\.vs
+\bin
+\obj
+obj\
+bin\
+.vs\
+*.suo
+*.cache
+*.user
+~*
+Documentation and Notes/TDBD-14-2.mp4
