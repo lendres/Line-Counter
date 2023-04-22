@@ -1,16 +1,14 @@
+using DigitalProduction.Forms;
 using System;
 using System.Collections;
-using System.Windows.Forms;
 using System.IO;
 using System.Threading;
-
-using DigitalProduction.Forms;
-using DigitalProduction.IO;
+using System.Windows.Forms;
 
 namespace DigitalProduction.LineCounter
 {
 	/// <summary>
-	/// Summary description for Form1.
+	/// A text-file line counting application.  Used to count lines of code, et cetera.
 	/// </summary>
 	public partial class LineCounter : DPMForm
 	{

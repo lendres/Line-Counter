@@ -1,6 +1,3 @@
-using System;
-using System.Xml.Serialization;
-
 namespace DigitalProduction.LineCounter
 {
 	/// <summary>
@@ -8,7 +5,7 @@ namespace DigitalProduction.LineCounter
 	/// </summary>
 	public class LongCommentStyle
 	{
-		#region Members / Variables / Delegates.
+		#region Members
 
 		/// <summary>
 		/// The string that starts the comment.
@@ -24,7 +21,7 @@ namespace DigitalProduction.LineCounter
 
 		#endregion
 
-		#region Construction.
+		#region Construction
 
 		/// <summary>
 		/// Default constructor.

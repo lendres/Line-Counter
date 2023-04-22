@@ -1,4 +1,3 @@
-using System;
 using System.IO;
 
 namespace DigitalProduction.LineCounter
@@ -8,13 +7,7 @@ namespace DigitalProduction.LineCounter
 	/// </summary>
 	public class LineCounts
 	{
-		#region Enumerations.
-
-
-
-		#endregion
-
-		#region Members / Variables / Delegates.
+		#region Members
 
 		private int		_files				= 0;
 		private int		_lines				= 0;
@@ -23,7 +16,7 @@ namespace DigitalProduction.LineCounter
 
 		#endregion
 
-		#region Construction.
+		#region Construction
 
 		/// <summary>
 		/// Default constructor.
@@ -34,7 +27,7 @@ namespace DigitalProduction.LineCounter
 
 		#endregion
 
-		#region Properties.
+		#region Properties
 
 		/// <summary>
 		/// Number of files we counted.
@@ -94,7 +87,7 @@ namespace DigitalProduction.LineCounter
 
 		#endregion
 
-		#region Functions.
+		#region Functions
 
 		public void IncrementFileCount()
 		{
@@ -152,9 +145,7 @@ namespace DigitalProduction.LineCounter
 
 		#endregion
 
-		#region XML.
-
-
+		#region XML
 
 		#endregion
 

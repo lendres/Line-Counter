@@ -1,4 +1,3 @@
-using System;
 using System.Collections.Generic;
 using System.Xml.Serialization;
 
@@ -9,7 +8,7 @@ namespace DigitalProduction.LineCounter
 	/// </summary>
 	public class FileType
 	{
-		#region Members / Variables / Delegates.
+		#region Members
 
 		private string					_name;
 		private List<string>			_extensions				= new List<string>();
@@ -20,7 +19,7 @@ namespace DigitalProduction.LineCounter
 
 		#endregion
 
-		#region Construction.
+		#region Construction
 
 		/// <summary>
 		/// Default constructor.
@@ -29,7 +28,7 @@ namespace DigitalProduction.LineCounter
 
 		#endregion
 
-		#region Properties.
+		#region Properties
 
 		/// <summary>
 		/// Name of this file type.
@@ -143,7 +142,7 @@ namespace DigitalProduction.LineCounter
 
 		#endregion
 
-		#region Functions.
+		#region Functions
 
 		/// <summary>
 		/// Does the file passed have an extension that is associated with this file type / comment style.
@@ -316,9 +315,7 @@ namespace DigitalProduction.LineCounter
 
 		#endregion
 
-		#region XML.
-
-
+		#region XML
 
 		#endregion
 

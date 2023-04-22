@@ -1,5 +1,3 @@
-using System;
-using Microsoft.Win32;
 using DigitalProduction.Forms;
 using DigitalProduction.Registry;
 
