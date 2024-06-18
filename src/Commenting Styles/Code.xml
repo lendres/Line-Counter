@@ -34,26 +34,6 @@
         </longcommentstyles>
     </style>
 
-	<style>
-		<name>Python</name>
-		<extentions>
-			<extension>py</extension>
-		</extentions>
-		<shortcommentstyles>
-			<shortcomment>#</shortcomment>
-		</shortcommentstyles>
-		<longcommentstyles>
-			<longcomment>
-				<StartString>"""</StartString>
-				<EndString>"""</EndString>
-			</longcomment>
-			<longcomment>
-				<StartString>'''</StartString>
-				<EndString>'''</EndString>
-			</longcomment>
-		</longcommentstyles>
-	</style>
-
     <style>
         <name>Visual Lisp</name>
         <extentions>
@@ -73,5 +53,21 @@
         <shortcommentstyles>
             <shortcomment>'</shortcomment>
         </shortcommentstyles>
+    </style>
+
+    <style>
+        <name>Python</name>
+        <extentions>
+            <extension>py</extension>
+        </extentions>
+        <shortcommentstyles>
+            <shortcomment>#</shortcomment>
+        </shortcommentstyles>
+        <longcommentstyles>
+            <longcomment>
+                <StartString>"""</StartString>
+                <EndString>"""</EndString>
+            </longcomment>
+        </longcommentstyles>
     </style>
 </commentingstyles>
